@@ -1,6 +1,6 @@
 # Blog REST API
 
-Blog API sederhana pakai NestJS + TypeScript. Ada fitur CRUD Users & Posts, autentikasi JWT, dan dokumentasi Swagger.
+Blog API sederhana dengan NestJS + TypeScript.
 
 ## Kenapa Pakai Layered Architecture?
 
